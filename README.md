@@ -1,2 +1,3 @@
-# ApigeePractice
-Apigee - Practice
+# WS Management using Apigee Edge
+
+### About
