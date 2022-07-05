@@ -1,12 +1,13 @@
 # WS Management using Apigee Edge
 API management.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [WS Management using Apigee Edge](#ws-management-using-apigee-edge)
+  - [Introduction](#introduction)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 API management using Apigee Edge. Managing APIs includes analytics, monitoring, proxies, etc.
