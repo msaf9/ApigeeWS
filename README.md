@@ -26,8 +26,8 @@ API management using Apigee Edge. Managing APIs includes analytics, monitoring, 
 ### Get repository
 
 ```git
-git https://github.com/msaf9/ApigeeWS.git
-cd ApigeeWS
+git https://github.com/msaf9/apigee-ws.git
+cd apigee-ws
 ```
 
 ## License
