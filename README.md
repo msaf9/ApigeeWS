@@ -1,8 +1,10 @@
 <h1> WS Management using Apigee Edge </h1>
 API management.
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
-- [Technologies](#technologies)
+- [Technology Stack](#technology-stack)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -12,7 +14,7 @@ API management.
 
 API management using Apigee Edge. Managing APIs includes analytics, monitoring, proxies, etc.
 
-## Technologies
+## Technology Stack
 
 - Apigee Edge
 - APIs
